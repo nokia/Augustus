@@ -150,3 +150,8 @@ Here is a list of caveats to be aware of about the implementation of the Augustu
    mechanism implemented to ensure correctness of concurrent lookup and update operations.
  * In order to exploit nic's RSS, name's hash is embedded in the ip destination address (In the future it can be embedded in the UDP port 
    and IP addresses used to identify the port)
+
+
+## License
+
+This project is licensed under the BSD-3-Clause-Clear license - see the [LICENSE](https://github.com/nokia/Augustus/blob/master/LICENSE).
